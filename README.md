@@ -5,5 +5,5 @@ After hours online trying to look for a tutorial that integrated both stacks, i 
 This isnt a full project with an ORM, a database or  business logic just a small setup so that both technology can speak between them.
  It doesnt require a intermediate understanding of both stack to go thru the tutorial but to be able to move forward with the skeleton and uses for a specific business an understand of both stacks is without a question.
  
- #Back-end side installing php and symphony with all the required libraries
+ # Back-end side installing php and symphony with all the required libraries
  
