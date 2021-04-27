@@ -4,13 +4,14 @@
         "core-js": "3.6.5",
         "deepmerge": "4.2.2",
         "fibers": "5.0.0",
-        "node-sass": "4.14.1",
+        "node-sass": "5.0.0",
         "regenerator-runtime": "0.13.7",
         "sass": "1.32.11",
         "sass-loader": "8.0.2",
+
         "vue-loader": "15.9.6",
         "vue-template-compiler": "2.6.12",
-        "webpack-notifier": "1.8.0"
+        "webpack-notifier": "1.13.0"
     },
     "license": "UNLICENSED",
     "private": true,
@@ -23,6 +24,6 @@
     "dependencies": {
         "vue": "2.6.12",
         "vue-router": "3.5.1",
-        "vuetify": "2.3.2"
+        "vuetify": "2.4.11"
     }
 }
