@@ -2,7 +2,7 @@
     "devDependencies": {
 
         "@symfony/webpack-encore": "1.6.1",
-        "core-js": "3.18.0",
+        "core-js": "3.18.1",
         "deepmerge": "4.2.2",
         "fibers": "5.0.0",
         "node-sass": "6.0.1",
