@@ -17,7 +17,7 @@
         "symfony/intl": "5.3.8",
         "symfony/mailer": "5.3.9",
         "symfony/mime": "5.3.8",
-        "symfony/monolog-bundle": "3.7.0",
+        "symfony/monolog-bundle": "3.7.1",
         "symfony/notifier": "5.3.9",
         "symfony/orm-pack": "*",
         "symfony/process": "5.3.7",
