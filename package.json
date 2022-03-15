@@ -1,19 +1,19 @@
 {
     "devDependencies": {
 
-        "@symfony/webpack-encore": "1.6.1",
-        "core-js": "3.19.3",
+        "@symfony/webpack-encore": "1.8.1",
+        "core-js": "3.21.1",
         "deepmerge": "4.2.2",
-        "fibers": "5.0.0",
-        "node-sass": "7.0.0",
+        "fibers": "5.0.1",
+        "node-sass": "7.0.1",
         "regenerator-runtime": "0.13.9",
-        "sass": "1.45.0",
-        "sass-loader": "12.3.0",
+        "sass": "1.49.9",
+        "sass-loader": "12.6.0",
 
 
         "vue-loader": "17.0.0",
         "vue-template-compiler": "2.6.14",
-        "webpack-notifier": "1.14.1"
+        "webpack-notifier": "1.15.0"
     },
     "license": "UNLICENSED",
     "private": true,
@@ -24,8 +24,8 @@
         "build": "encore production --progress"
     },
     "dependencies": {
-        "vue": "2.6.14",
+        "vue": "3.2.31",
         "vue-router": "3.5.3",
-        "vuetify": "2.6.1"
+        "vuetify": "2.6.4"
     }
 }
