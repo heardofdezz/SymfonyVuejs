@@ -33,9 +33,9 @@
     },
     "require-dev": {
         "symfony/debug-pack": "1.0.10",
-        "symfony/maker-bundle": "1.38.0",
+        "symfony/maker-bundle": "1.40.1",
         "symfony/profiler-pack": "1.0.6",
-        "symfony/test-pack": "1.0.9"
+        "symfony/test-pack": "1.0.10"
     },
     "config": {
         "optimize-autoloader": true,
