@@ -33,7 +33,7 @@
     },
     "require-dev": {
         "symfony/debug-pack": "1.0.10",
-        "symfony/maker-bundle": "1.42.0",
+        "symfony/maker-bundle": "1.43.0",
         "symfony/profiler-pack": "1.0.6",
         "symfony/test-pack": "1.0.10"
     },
