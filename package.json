@@ -5,7 +5,7 @@
         "core-js": "3.23.3",
         "deepmerge": "4.2.2",
         "fibers": "5.0.3",
-        "node-sass": "7.0.1",
+        "node-sass": "7.0.2",
         "regenerator-runtime": "0.13.9",
         "sass": "1.53.0",
         "sass-loader": "13.0.2",
